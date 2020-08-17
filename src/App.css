@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.heading {
+  color: greenyellow;
+  font-size: 30px;
+  text-align: center;
+}
+
+.name {
+  font-size: 35px;
+  text-decoration-line: overline underline;
+  text-shadow: 8px 4px 4px #333;
+  text-transform: uppercase;
+}
+
+.tip {
+  font-size: 15px;
+  color: #fff;
+}
